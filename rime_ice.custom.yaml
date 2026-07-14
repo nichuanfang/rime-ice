@@ -1,0 +1,4 @@
+# encoding: utf-8
+
+patch:
+  switches/@1/reset: 1  # ascii_punct：0=中文标点 1=英文标点，改为默认使用英文标点
