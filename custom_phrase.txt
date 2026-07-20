@@ -63,6 +63,11 @@ Go程	gocheng
 code	code
 SOHO	soho
 
+# 技术/工具缩写
 n8n	nn
 bifrost	bif
 bilibili	bil
+
+# 符号/邮箱
+f18326186224@gmail.com	gm
+1290274972@qq.com	qq
