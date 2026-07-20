@@ -64,5 +64,5 @@ code	code
 SOHO	soho
 
 n8n	nn
-bifrost	bif	1
-bilibili	bil	2
+bifrost	bif
+bilibili	bil
